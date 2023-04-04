@@ -1,7 +1,7 @@
 ### Olá! Meu nome e Leandro 
-<p>Sou um desenvolvedor Jr, apaixonado pelo que eu faço, Estou sempre querendo aprender algo novo que me ajude a ser um desenvolvedor cada vez melhor.
-  Atualmente trabalho como Tecnico de Redes, porém estou me aprofundando na programação, meu foco e ser um desenvolvedor completo.
-
+<p>Sou um desenvolvedor Jr, apaixonado pelo que eu faço.Estou  no mercado  de  redes a mais de 7 anos, tenho conhecimento  em, tecnologias, mikrotik, windows server 2008, 2012, 2016,  Linux, vmwere,proxmox, centos 6 e 7, monitoramento de Redes de alto nivel.
+Tenho  conhecimento em  criação de projetos em redes de fibra óptica,implementação de redes e estruturas ,configurações de equipamentos.
+Hoje estou buscando conhencimentos em Arquiteturas de Nuvens AWS, e Logica de Progrmação, minha meta e conhecer varias linguagem de programação.
 </p>
 <div>
   <img width="350" height="250" src="https://phoneky.co.uk/thumbs/screensavers/down/fantasy/future_sz9qalmc.gif" />
