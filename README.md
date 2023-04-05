@@ -1,5 +1,5 @@
 ### Olá! Meu nome e Leandro 
-<p>Sou um desenvolvedor Jr, apaixonado pelo que eu faço, minha nova carrerira vai ser em JS,PHP,HTML,CSS,stou  no mercado  de  redes a mais de 7 anos, tenho conhecimento  em, tecnologias, mikrotik, windows server 2008, 2012, 2016,  Linux, vmwere,proxmox, centos 6 e 7, monitoramento de Redes de alto nivel.
+<p>Sou um desenvolvedor Jr, apaixonado pelo que eu faço, minha nova carrerira vai ser em JS,PHP,HTML,CSS,estou  no mercado  de  redes a mais de 7 anos, tenho conhecimento  em, tecnologias, mikrotik, windows server 2008, 2012, 2016,  Linux, vmwere,proxmox, centos 6 e 7, monitoramento de Redes de alto nivel.
 Tenho  conhecimento em  criação de projetos em redes de fibra óptica,implementação de redes e estruturas ,configurações de equipamentos.
 Hoje estou buscando conhencimentos em Arquiteturas de Nuvens AWS, e Logica de Progrmação, minha meta e conhecer varias linguagem de programação.
 </p>
