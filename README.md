@@ -33,7 +33,8 @@
 class LeandroSinfronio:
     empresa   = "LS TECHIA"
     funcao    = "Fundador & Tech Lead"
-    foco      = ["IA", "Sistemas", "Automacao", "VPN"]
+    foco      = ["IA", "Sistemas", "Automacao", "VPN", "Cloud"]
+    cloud     = ["AWS", "Google Cloud"]
     local     = "Brasilia - DF, Brasil"
     anos_exp  = 15
     contato   = "wa.me/5561995611408"
@@ -57,16 +58,27 @@ class LeandroSinfronio:
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-020617?style=for-the-badge&logo=flutter&logoColor=00f5ff)
-![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=6366f1)
-![Kotlin](https://img.shields.io/badge/Kotlin-020617?style=for-the-badge&logo=kotlin&logoColor=a855f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=f59e0b)
-![PHP](https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=818cf8)
-![Linux](https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=fbbf24)
-![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=0ea5e9)
+**`// Cloud`**
+
 ![AWS](https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazon-aws&logoColor=f97316)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-020617?style=for-the-badge&logo=google-cloud&logoColor=4285f4)
+![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=0ea5e9)
 ![GitHub Actions](https://img.shields.io/badge/Actions-020617?style=for-the-badge&logo=github-actions&logoColor=00f5ff)
 ![Proxmox](https://img.shields.io/badge/Proxmox-020617?style=for-the-badge&logo=proxmox&logoColor=e55000)
+
+**`// Dev`**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=f59e0b)
+![HTML5](https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=1572b6)
+![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=6366f1)
+![PHP](https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=818cf8)
+![Flutter](https://img.shields.io/badge/Flutter-020617?style=for-the-badge&logo=flutter&logoColor=00f5ff)
+![Kotlin](https://img.shields.io/badge/Kotlin-020617?style=for-the-badge&logo=kotlin&logoColor=a855f7)
+
+**`// Infra`**
+
+![Linux](https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=fbbf24)
 ![MikroTik](https://img.shields.io/badge/MikroTik-020617?style=for-the-badge&logoColor=a855f7)
 
 </div>
