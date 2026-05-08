@@ -74,7 +74,7 @@ class LeandroSinfronio:
 ![Flutter](https://img.shields.io/badge/Flutter-020617?style=for-the-badge&logo=flutter&logoColor=00f5ff)
 ![Kotlin](https://img.shields.io/badge/Kotlin-020617?style=for-the-badge&logo=kotlin&logoColor=a855f7)
 
-**`// Infra`**
+**`// Infra & Redes`**
 
 ![Linux](https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=fbbf24)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-020617?style=for-the-badge&logo=ubuntu&logoColor=e95420)
@@ -85,7 +85,22 @@ class LeandroSinfronio:
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-020617?style=for-the-badge&logo=openvpn&logoColor=ea7e20)
 ![MikroTik](https://img.shields.io/badge/MikroTik-020617?style=for-the-badge&logoColor=a855f7)
 ![Proxmox](https://img.shields.io/badge/Proxmox-020617?style=for-the-badge&logo=proxmox&logoColor=e55000)
+![VMware](https://img.shields.io/badge/VMware-020617?style=for-the-badge&logo=vmware&logoColor=607078)
+![Veeam](https://img.shields.io/badge/Veeam_Backup-020617?style=for-the-badge&logo=veeam&logoColor=00b336)
 ![Bash](https://img.shields.io/badge/Bash-020617?style=for-the-badge&logo=gnubash&logoColor=4eaa25)
+
+**`// Monitoramento`**
+
+![Zabbix](https://img.shields.io/badge/Zabbix-020617?style=for-the-badge&logo=zabbix&logoColor=d40000)
+![Grafana](https://img.shields.io/badge/Grafana-020617?style=for-the-badge&logo=grafana&logoColor=f46800)
+
+**`// Seguranca`**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-020617?style=for-the-badge&logo=kalilinux&logoColor=557c94)
+![Wireshark](https://img.shields.io/badge/Wireshark-020617?style=for-the-badge&logo=wireshark&logoColor=1679a7)
+![pfSense](https://img.shields.io/badge/pfSense-020617?style=for-the-badge&logo=pfsense&logoColor=212121)
+![Let's Encrypt](https://img.shields.io/badge/Lets_Encrypt-020617?style=for-the-badge&logo=letsencrypt&logoColor=003a70)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-020617?style=for-the-badge&logo=shield&logoColor=e11d48)
 
 </div>
 
