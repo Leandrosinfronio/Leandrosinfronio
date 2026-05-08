@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Leandro+Sinfrônio;Fundador+da+LS+TECHIA;IA+%7C+Sistemas+%7C+Automação" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:3B82F6,100:9333ea&height=180&section=header&text=Leandro%20Sinfronio&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Fundador%20da%20LS%20TECHIA%20%7C%20IA%20%7C%20Sistemas%20%7C%20Automacao&descSize=16&descAlignY=58" />
 
 <br/>
 
@@ -14,14 +14,14 @@
 
 ## Sobre mim
 
-Fundador da **LS TECHIA** — empresa focada em **Inteligência Artificial, Sistemas e Automação**.
+Fundador da **LS TECHIA** — empresa focada em **Inteligencia Artificial, Sistemas e Automacao**.
 
-Com mais de **7 anos de experiência em redes e infraestrutura**, hoje construo soluções completas que unem conectividade, segurança e tecnologia de ponta.
+Com mais de **15 anos de experiencia em redes e infraestrutura**, hoje construo solucoes completas que unem conectividade, seguranca e tecnologia de ponta.
 
 - Infraestrutura: **Linux, MikroTik, VMware, Proxmox, Windows Server**
 - Desenvolvimento: **Flutter/Android, Python, JavaScript, PHP**
 - Cloud & DevOps: **AWS, GitHub Actions, Docker, VPS**
-- Segurança: **VPN, Sing-box, Xray, Hysteria2**
+- Seguranca: **VPN, Sing-box, Xray, Hysteria2**
 
 ---
 
@@ -57,17 +57,12 @@ Com mais de **7 anos de experiência em redes e infraestrutura**, hoje construo 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Leandrosinfronio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrosinfronio&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leandrosinfronio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrosinfronio&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br)
 
 </div>
 
 ---
 
-<div align="center">
-
-**LS TECHIA · IA, Sistemas e Automacao**
-
-[![Site](https://img.shields.io/badge/lstechia.com.br-0A0F1E?style=flat-square&logo=google-chrome&logoColor=3B82F6)](https://lstechia.com.br)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,50:3B82F6,100:0A0F1E&height=100&section=footer" />
