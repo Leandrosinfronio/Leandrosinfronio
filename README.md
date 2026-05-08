@@ -35,7 +35,6 @@ class LeandroSinfronio:
     funcao    = "Fundador & Tech Lead"
     foco      = ["IA", "Sistemas", "Automacao", "VPN", "Cloud"]
     cloud     = ["AWS", "Google Cloud"]
-    local     = "Brasilia - DF, Brasil"
     anos_exp  = 15
     contato   = "wa.me/5561995611408"
     site      = "www.lstechia.com.br"
@@ -64,7 +63,6 @@ class LeandroSinfronio:
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-020617?style=for-the-badge&logo=google-cloud&logoColor=4285f4)
 ![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=0ea5e9)
 ![GitHub Actions](https://img.shields.io/badge/Actions-020617?style=for-the-badge&logo=github-actions&logoColor=00f5ff)
-![Proxmox](https://img.shields.io/badge/Proxmox-020617?style=for-the-badge&logo=proxmox&logoColor=e55000)
 
 **`// Dev`**
 
@@ -79,7 +77,15 @@ class LeandroSinfronio:
 **`// Infra`**
 
 ![Linux](https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=fbbf24)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-020617?style=for-the-badge&logo=ubuntu&logoColor=e95420)
+![Debian](https://img.shields.io/badge/Debian-020617?style=for-the-badge&logo=debian&logoColor=a81d33)
+![Nginx](https://img.shields.io/badge/Nginx-020617?style=for-the-badge&logo=nginx&logoColor=009639)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-020617?style=for-the-badge&logo=cloudflare&logoColor=f38020)
+![WireGuard](https://img.shields.io/badge/WireGuard-020617?style=for-the-badge&logo=wireguard&logoColor=88171a)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-020617?style=for-the-badge&logo=openvpn&logoColor=ea7e20)
 ![MikroTik](https://img.shields.io/badge/MikroTik-020617?style=for-the-badge&logoColor=a855f7)
+![Proxmox](https://img.shields.io/badge/Proxmox-020617?style=for-the-badge&logo=proxmox&logoColor=e55000)
+![Bash](https://img.shields.io/badge/Bash-020617?style=for-the-badge&logo=gnubash&logoColor=4eaa25)
 
 </div>
 
