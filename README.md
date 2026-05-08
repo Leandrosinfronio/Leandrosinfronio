@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_lstechia.com.br-0A0F1E?style=for-the-badge&logoColor=white)](https://lstechia.com.br)
 [![VPN](https://img.shields.io/badge/🔒_LS_TECHIA_VPN-3B82F6?style=for-the-badge)](https://vpn.lstechia.com.br)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561992411758)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561995611408)
 
 </div>
 
